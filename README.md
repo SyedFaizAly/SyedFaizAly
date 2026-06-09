@@ -3,6 +3,7 @@
 I'm a passionate and results-driven Microsoft Dynamics 365 Finance & Operations (D365 F&O) Technical Consultant with MB-500 certification and experience in:
 - 🚀 X++ development, D365 customizations, and D365 extensions
 - 🔄 D365 Integrations with external systems (REST, OData, JSON)
+- 📊 Power BI development and  designing interactive dashboards for data-driven decision-making
 - 🧾 Data migration using DMF & custom Excel import
 - ⚙️ Custom services, APIs, and automation
 - 🧠 Power Platform specially working on Power Automate and Power Apps
@@ -10,7 +11,7 @@ I'm a passionate and results-driven Microsoft Dynamics 365 Finance & Operations 
   
 
 ## 💼 Tech Stack
-`X++` `D365 F&O` `.NET Core` `SQL Server` `REST APIs` `Power Platform` `Azure DevOps`,  `Power Pages`,  `Power Automate`, `D365 Customization and Extensions`,  `D365 Integration`,  `LCS`,  `TSQL`,  `SSRS Reporting`
+`X++` `D365 F&O` 'COC' 'Batch Jobs' `SQL Server` `REST APIs` `Power Platform` `Azure DevOps`,  `Power Pages`,  `Power Automate`, `D365 Customization and Extensions`,  `D365 Integration`,  `LCS`,  `TSQL`,  `SSRS Reporting`
 
 ## 🌍 Open to Remote Projects
 I'm actively working and exploring remote freelance or full-time technical opportunities — especially in:
